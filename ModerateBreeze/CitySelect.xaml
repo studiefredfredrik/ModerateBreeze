@@ -1,0 +1,14 @@
+﻿<Window x:Class="ModerateBreeze.CitySelect"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CitySelect" Height="340" Width="449" ResizeMode="NoResize">
+    <Grid Margin="0,0,18,93">
+        <TextBox x:Name="txtLocation" HorizontalAlignment="Left" Height="23" Margin="15,37,0,0" TextWrapping="Wrap" Text="Skien" VerticalAlignment="Top" Width="247"/>
+        <ListBox x:Name="lstBoxResults" HorizontalAlignment="Left" Height="58" Margin="15,101,0,0" VerticalAlignment="Top" Width="398" SelectionChanged="lstBoxResults_SelectionChanged"/>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="307,37,0,0" VerticalAlignment="Top" Width="106" Click="btnSearch_Click" Height="23"/>
+        <Label Content="Type your location:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.632,0.038"/>
+        <Label Content="Results:" HorizontalAlignment="Left" Margin="15,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.632,0.038"/>
+        <Button x:Name="btnSaveAndClose" Content="Save and close" HorizontalAlignment="Left" Margin="307,180,0,0" VerticalAlignment="Top" Width="106" Click="btnSaveAndClose_Click" Height="23"/>
+
+    </Grid>
+</Window>

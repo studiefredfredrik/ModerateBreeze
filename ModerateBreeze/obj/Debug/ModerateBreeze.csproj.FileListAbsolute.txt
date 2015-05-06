@@ -1,0 +1,16 @@
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\bin\Debug\ModerateBreeze.exe.config
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\bin\Debug\ModerateBreeze.exe
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\bin\Debug\ModerateBreeze.pdb
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\CitySelect.baml
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\MainWindow.baml
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\CitySelect.g.cs
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\MainWindow.g.cs
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\App.g.cs
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze.g.resources
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze.csproj.GenerateResource.Cache
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze.exe
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze.pdb
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\Mikrosoft JS kurs\Egenlagd\værapp med yr\ModerateBreeze\ModerateBreeze\obj\Debug\ModerateBreeze_Content.g.cs
